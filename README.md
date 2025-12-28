@@ -1,6 +1,6 @@
 # Rosalind
 
-![Header](readme_header.png "Header")
+![Header](header.png "Header")
 Welcome to my personal website!
 
 ## About Me
