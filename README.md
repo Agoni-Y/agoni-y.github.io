@@ -1,27 +1,28 @@
 ![Header](header.png "Header")
 
-<h2> 
-  Hi, I'm Chen Zhiwei! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+# Hello, I'm Chen Zhiwei! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p>
-  <em>
-    Artificial Intelligence at 
-    <a href="https://www.nuist.edu.cn/" 
-      title="Nanjing University of Information Science and Technology"
-      target="_blank" rel="noopener noreferrer">
-      NUIST
-    </a>
-    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" />
-    <br/>
-    Applied Computing at 
-    <a href="https://www.setu.ie/" 
-      title="South East Technology University"
-      target="_blank" rel="noopener noreferrer">
-      SETU
-    </a>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
-  </em>
-</p>
+<div style="margin-left: 20px;">
+  <p>
+    <em>
+      Artificial Intelligence at 
+      <a href="https://www.nuist.edu.cn/" 
+        title="Nanjing University of Information Science and Technology"
+        target="_blank" rel="noopener noreferrer">
+        NUIST
+      </a>
+      <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" />
+      <br/>
+      Applied Computing at 
+      <a href="https://www.setu.ie/" 
+        title="South East Technology University"
+        target="_blank" rel="noopener noreferrer">
+        SETU
+      </a>
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
+    </em>
+  </p>
+</div>
 
 
 
