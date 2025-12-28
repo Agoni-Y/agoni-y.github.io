@@ -1,6 +1,6 @@
 # Rosalind
 
-![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")
+![Header](readme_header.png "Header")
 Welcome to my personal website!
 
 ## About Me
