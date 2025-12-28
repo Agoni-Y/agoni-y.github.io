@@ -1,1 +1,14 @@
-# agoni-y.github.io
+# Rosalind
+
+Welcome to my personal website!
+
+## About Me
+I am a computer science student interested in cloud computing and security.
+
+## Projects
+- **KServe Deployment Lab** – Deployed ML model on Kubernetes
+- **Android UI Design** – Room style selection app
+
+## Contact
+- GitHub: https://github.com/username
+- Email: you@example.com
