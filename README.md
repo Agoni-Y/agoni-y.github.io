@@ -1,5 +1,6 @@
 # Rosalind
 
+![Header](readme_header.png "Header")
 Welcome to my personal website!
 
 ## About Me
