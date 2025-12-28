@@ -44,6 +44,10 @@ const chen = {
   pronouns: "she" | "her",
   researchInterests: ["Computer Vision", "Weakly Supervised Learning"],
   currentFocus: ["Zero-Shot Learning", "Positive-Unlabeled (PU) Learning", "Vision-language models"],
+  favoriteMetric: "anything that is not accuracy",
+  coffeeLevel: "depends on deadline",
+  biggestFear: "studying & coding",
+  lifeMotto: "Starting hard doesn’t promise a sweet ending — but starting sweet is already sweet.”
 };
 ```
 
