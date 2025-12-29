@@ -6,13 +6,23 @@
 </h2>
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/Agoni-Y)&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:agonizw@gmail.com)&nbsp;&nbsp;
-[![CSDN](https://img.shields.io/badge/CSDN-FC5531?style=flat&logo=csdn&logoColor=white)](https://blog.csdn.net/qq_40828881)&nbsp;&nbsp;
-[![Blog](https://img.shields.io/badge/Blog-4CAF50?style=flat&logo=readthedocs&logoColor=white)](https://Agoni-Y.github.io)
-
+  <a href="https://github.com/Agoni-Y">
+    <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:agonizw@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://blog.csdn.net/qq_40828881">
+    <img src="https://img.shields.io/badge/CSDN-FC5531?style=flat&logo=csdn&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://Agoni-Y.github.io">
+    <img src="https://img.shields.io/badge/Blog-4CAF50?style=flat&logo=readthedocs&logoColor=white" />
+  </a>
 </div>
+
 
 <p align="center">
   <em>
@@ -55,22 +65,27 @@ const chen = {
 </h2>
 <div align="center">
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" />
 
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Web-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+  <br/>
 
-![](https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Mobile-Android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Web-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Mobile-Android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a" />
 
 </div>
+
 ## Projects
 - **KServe Deployment Lab** – Deployed ML model on Kubernetes
 - **Android UI Design** – Room style selection app
