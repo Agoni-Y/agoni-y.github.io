@@ -1,4 +1,6 @@
-![Header](header.png "Header")
+<p align="center">
+  <img src="header.png" alt="Header" style="width:75%; max-width:75%; display:block; margin:0 auto;" />
+</p>
 
 <h2 align="center">
   Hi, I'm Chen Zhiwei!
