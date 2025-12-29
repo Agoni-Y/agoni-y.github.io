@@ -51,17 +51,22 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
 
+<div style="width:75%; max-width:75%; display:block; margin:0 auto;">
+
 ```javascript
 const chen = {
-  pronouns: "she" | "her",
+  pronouns: ["she", "her"],
   researchInterests: ["Computer Vision", "Weakly Supervised Learning"],
-  currentFocus: ["Zero-Shot Learning", "Positive-Unlabeled (PU) Learning", "Vision-language models"],
+  currentFocus: ["Zero-Shot Learning","Positive-Unlabeled (PU) Learning","Vision-Language Models"],
   favoriteMetric: "anything that is not accuracy",
   coffeeLevel: "depends on deadline",
   biggestFear: "studying & coding",
-  lifeMotto: "Starting hard doesn’t promise a sweet ending — but starting sweet is already sweet.”
+  lifeMotto: "Starting hard doesn’t promise a sweet ending — but starting sweet is already sweet."
 };
 ```
+
+</div>
+
 <h2 align="center">
   🔧 Technologies & Tools
 </h2>
