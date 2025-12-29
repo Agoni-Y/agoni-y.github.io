@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="header.png" alt="Header" style="width:75%; max-width:75%; display:block; margin:0 auto;" />
-</p>
-
-<h2 align="center">
+<h1 align="center">
   Hi, I'm Chen Zhiwei!
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-</h2>
+</h1>
 
 <div align="center">
   <a href="https://github.com/Agoni-Y">
@@ -44,6 +40,10 @@
     </a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
   </em>
+</p>
+
+<p align="center">
+  <img src="header.png" alt="Header" style="width:75%; max-width:75%; display:block; margin:0 auto;" />
 </p>
 
 <h2 align="center">
