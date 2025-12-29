@@ -86,10 +86,15 @@ const chen = {
 
 </div>
 
-## Projects
-- **KServe Deployment Lab** – Deployed ML model on Kubernetes
-- **Android UI Design** – Room style selection app
+<h2 align="center">
+  📚 Open Source Projects
+</h2>
+<div align="center">
+  <a href="https://github.com/Agoni-Y/Cloud-Computing"><b>Cloud-Computing</b></a>: Experiments about Docker and Kubernetes
+</div>
 
-## Contact
-- GitHub: https://github.com/username
-- Email: you@example.com
+<h2 align="center">
+  &#x270d; Blog & Writing
+</h2>
+<div align="center">
+  <a href="https://blog.csdn.net/qq_40828881/article/details/143438155?spm=1001.2014.3001.5501"><b>SE Midterm Review</b></a>: Key Points of Course "Software Engineering" </div>
